@@ -1,0 +1,33 @@
+{
+  "name": "registerUserSuccess",
+  "config": {
+    "from": "\"Phex Registrierung\" <noreply@phex.space>"
+  },
+  "scope": {
+    "platform": "phex"
+  },
+  "locales": [
+    {
+      "language": "de",
+      "name": "subject",
+      "content": "[{{platform}}] Registrierung Ihres Benutzers abgeschlossen"
+    },
+    {
+      "language": "de",
+      "name": "text",
+      "clobId": "registerUserSuccess.de.txt",
+      "isClob": true
+    },
+    {
+      "language": "en",
+      "name": "subject",
+      "content": "[{{platform}}] Registration of your user completed"
+    },
+    {
+      "language": "en",
+      "name": "text",
+      "clobId": "registerUserSuccess.en.txt",
+      "isClob": true
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Hallo {{user.firstName}} {{user.name}},
+herzlichen Glückwunsch Sie sind nun bei Phex registriert.
+
+Mit freundlichen Grüßen,
+Ihr Phex-Team
